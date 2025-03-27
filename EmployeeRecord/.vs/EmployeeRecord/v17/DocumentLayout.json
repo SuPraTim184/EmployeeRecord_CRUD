@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|d:\\04_03_2024_employee_record\\codebase\\employeerecord\\views\\employeerecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|solutionrelative:views\\employeerecord\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|d:\\04_03_2024_employee_record\\codebase\\employeerecord\\controllers\\employeerecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|solutionrelative:controllers\\employeerecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|d:\\04_03_2024_employee_record\\codebase\\employeerecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|d:\\04_03_2024_employee_record\\codebase\\employeerecord\\models\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|solutionrelative:models\\employeerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|d:\\04_03_2024_employee_record\\codebase\\employeerecord\\dal\\employeerecorddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA648FB-1BA7-4824-AB59-F0C880E20319}|EmployeeRecord.csproj|solutionrelative:dal\\employeerecorddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Views\\EmployeeRecord\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeRecord\\Index.cshtml",
+              "ToolTip": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Views\\EmployeeRecord\\Index.cshtml",
+              "RelativeToolTip": "Views\\EmployeeRecord\\Index.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T14:28:14.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRecordDAL.cs",
+              "DocumentMoniker": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\DAL\\EmployeeRecordDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeeRecordDAL.cs",
+              "ToolTip": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\DAL\\EmployeeRecordDAL.cs",
+              "RelativeToolTip": "DAL\\EmployeeRecordDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:09:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRecordController.cs",
+              "DocumentMoniker": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Controllers\\EmployeeRecordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeRecordController.cs",
+              "ToolTip": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Controllers\\EmployeeRecordController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeRecordController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:47:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRecord.cs",
+              "DocumentMoniker": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Models\\EmployeeRecord.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeRecord.cs",
+              "ToolTip": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Models\\EmployeeRecord.cs",
+              "RelativeToolTip": "Models\\EmployeeRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:40:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\04_03_2024_Employee_Record\\CodeBase\\EmployeeRecord\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:37:46.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
